@@ -4,7 +4,7 @@
 Regardless whether we know or not the shape of the distribution of a random variable, an interval centered around the mean whose total length is 8 standard deviations is guaranteed to include at least a certain percantage of data. This guaranteed minimal value as a percentage is: 
 
 k = 4
-(1-1/(k*k))*100 = **93.75**
+(1-1/(k * k))*100 = **93.75**
 
 
 ### QUESTION 2: 
